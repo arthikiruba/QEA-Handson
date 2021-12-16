@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" >
+  <test name="Test">
+    <classes>
+       <class name="Shipment"/> <!-- Add required entry -->
+     </classes>
+  </test> 
+</suite> 

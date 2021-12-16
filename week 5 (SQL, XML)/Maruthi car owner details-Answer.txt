@@ -1,0 +1,3 @@
+query.sql
+    1 select owners.owner_id,owner_name,address,phone_no from owners join cars on owners.owner_id=cars.owner_id
+    2 where car_name like 'Maruthi%' order by owner_id;

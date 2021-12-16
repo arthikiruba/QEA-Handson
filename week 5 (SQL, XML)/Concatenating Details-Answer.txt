@@ -1,0 +1,3 @@
+singlerow3.sql
+    1 SELECT CONCAT(address,",",city) AS address FROM student
+    2 ORDER BY address DESC;

@@ -1,0 +1,10 @@
+insert.sql
+    1 insert into department(department_id,department_name,department_block_number)
+    2 values(1,'CSE',3);
+    3 
+    4 insert into department(department_id,department_name,department_block_number)
+    5 values(2,'IT',3);
+    6 
+    7 insert into department(department_id,department_name,department_block_number)
+    8 values(3,'SE',3);
+    9 

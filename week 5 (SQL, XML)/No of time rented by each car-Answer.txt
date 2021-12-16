@@ -1,0 +1,3 @@
+query.sql
+    1 Select car_id, count(rental_id) as NO_OF_TRIPS FROM rentals
+    2 group by car_id;
